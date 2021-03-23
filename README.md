@@ -1,1 +1,1 @@
-Going through the class code using `libcst` while using `jedi` for inference
+Use `jedi` for inference while scanning throught the code with `libcst`
